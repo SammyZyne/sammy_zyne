@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sammy Zyne | Web3 Community Moderator</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Poppins', sans-serif;
+    }
+    body {
+      background: #0f0f0f;
+      color: #fff;
+    }
+    header {
+      background: url('c139e6b13136de84812780a812d5c0a6.jpg') no-repeat center center/cover;
+      text-align: center;
+      padding: 6rem 2rem;
+      color: #fff;
+    }
+    header h1 {
+      font-size: 3.5rem;
+      text-shadow: 2px 2px 8px rgba(0,0,0,0.8);
+    }
+    header p {
+      font-size: 1.3rem;
+      color: #eee;
+      margin-top: 0.5rem;
+    }
+    nav {
+      background: #111;
+      display: flex;
+      justify-content: center;
+      padding: 1rem;
+    }
+    nav a {
+      color: #00ffd5;
+      margin: 0 1.5rem;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+    }
+    section {
+      padding: 3rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      margin-bottom: 1rem;
+      font-size: 2rem;
+      color: #00ffd5;
+    }
+    .slide-show {
+      max-width: 100%;
+      text-align: center;
+    }
+    .slide-show img {
+      width: 90%;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0, 255, 213, 0.2);
+    }
+    footer {
+      background: #111;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #aaa;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Sammy Zyne</h1>
+    <p>Web3 Community Moderator | NFT & DeFi Enthusiast</p>
+  </header>
+
+  <nav>
+    <a href="#about">About Me</a>
+    <a href="#offer">What I Offer</a>
+    <a href="#experience">Experience</a>
+    <a href="#dm">My DM</a>
+  </nav>
+
+  <div class="slide-show">
+    <img src="https://source.unsplash.com/1600x900/?crypto,technology" alt="Slide 1">
+  </div>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>Hey! I'm <strong>Sammy Zyne</strong>, a Web3-native community moderator passionate about crypto culture, community building, and innovation. I specialize in making online spaces feel like home—safe, active, and exciting. I’ve moderated NFT drops, managed DeFi launch communities, and helped DAOs grow organically. I love what I do and I’m always looking to connect with visionary teams.</p>
+  </section>
+
+  <section id="offer">
+    <h2>What I Offer</h2>
+    <ul>
+      <li>✅ 24/7 Community Moderation (Discord, Telegram, Twitter)</li>
+      <li>✅ Anti-FUD, spam control, and bot filtering</li>
+      <li>✅ Hosting AMAs, Twitter Spaces, and engagement events</li>
+      <li>✅ Content creation: announcements, memes, polls</li>
+      <li>✅ Community analytics & health monitoring</li>
+    </ul>
+  </section>
+
+  <section id="experience">
+    <h2>Experience</h2>
+    <p>I’ve worked with early-stage NFT projects, DAOs, and DeFi startups, helping them moderate, grow, and maintain engaging communities. My role has spanned event coordination, sentiment management, conflict resolution, and driving high engagement rates through creative strategies. I've contributed to projects involving:</p>
+    <ul>
+      <li>🔥 NFT Marketplace Moderation</li>
+      <li>🔥 DeFi Tool Launch Campaigns</li>
+      <li>🔥 Community Growth for Token Presales</li>
+      <li>🔥 Managing 10K+ member Discord & Telegram groups</li>
+    </ul>
+  </section>
+
+  <section id="dm">
+    <h2>My DM</h2>
+    <p>You can reach out to me anytime — I’m always open for exciting opportunities!</p>
+    <p>📧 Email: <a href="mailto:sammyzyne60@gmail.com">sammyzyne60@gmail.com</a></p>
+    <p>𝕏: <a href="https://x.com/sammyzyne0" target="_blank">@sammyzyne0</a></p>
+    <p>💬 Discord: <strong>sammyzyne</strong></p>
+    <p>📱 Telegram: <a href="https://t.me/Sammy_zyne0" target="_blank">@Sammy_zyne0</a></p>
+  </section>
+
+  <footer>
+    © 2025 Sammy Zyne. All rights reserved.
+  </footer>
+</body>
+</html>
